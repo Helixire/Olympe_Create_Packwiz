@@ -345,6 +345,10 @@ hash = "cacd5a91708f799da27924f237b9252d05438de1f9b4e3e978bf3894e8574df0"
 metafile = true
 
 [[files]]
+file = "mods/iris-flywheel-compat-1.20.1-0.2.1.jar"
+hash = "a1b8c45d289169ee46909688040fd6c00bc4ce9eecb38e357616301634980a22"
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
@@ -633,3 +637,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
+hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
+hash = "bf3282a0755ee171cca0c8a86bd3c8db1fe34584c5bbbb08643c4c15b5f59a1b"
