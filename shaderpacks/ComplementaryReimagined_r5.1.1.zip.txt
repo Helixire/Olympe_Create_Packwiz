@@ -1,2 +1,0 @@
-#Tue Feb 27 00:03:36 CET 2024
-LESS_LAVA_FOG=true

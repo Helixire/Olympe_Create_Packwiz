@@ -5,6 +5,18 @@ file = "README.md"
 hash = "4b1d33c5f883d9a130a912af8dc8ccc717481d774693282f8f1115c55955068c"
 
 [[files]]
+file = "config/borderlessmining.json"
+hash = "aef808472ffeadba904f44222f087427f0294bc3d83cfb5ceaf86eb60bb5ee16"
+
+[[files]]
+file = "config/iris.properties"
+hash = "51bfc69bab0639941748bb198068865d73699cf401436573cba92437189c9b32"
+
+[[files]]
+file = "config/litematica.json"
+hash = "6d09c2615f1217b397df229ac9e47c1fa8842cc6bb52e49af6d594aeefd74ca7"
+
+[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "2a39c976df9b566ba9b54f1e4fae5d98375061c6ccfc974529a9baf219de803c"
 metafile = true
@@ -439,6 +451,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/minihud.pw.toml"
+hash = "1bdf87c5dd44a752e0fa20ba3b42eb2671d3271c20da595115ae9b7ca63b1ada"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -510,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-what-you-got.pw.toml"
-hash = "cd345d97de598d81756ebb4d2ad44ac307bdabbfc4b01e66a726d20b149e35c6"
+hash = "73e522db6666ce4a96b69a93953553dc02d1bec4520f61207502f154ea6d608e"
 metafile = true
 
 [[files]]
@@ -639,9 +656,25 @@ hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
-hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
+metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip.txt"
-hash = "bf3282a0755ee171cca0c8a86bd3c8db1fe34584c5bbbb08643c4c15b5f59a1b"
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "369852a15ba98f38e88e116d61be97323eeed834a5b06bc6ab36b30a2fde2d76"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "9e03192afe88dd9d2d15d94d8c5a2e4a11f7ca8a77c6621493086b0b1211dbb6"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+metafile = true
